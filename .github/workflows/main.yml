@@ -19,7 +19,7 @@ jobs:
       - name: Configure Git
         run: |
           git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
+          git config user.email "kundodinesh0@gmail.com"
 
       - name: Add Remote
         env:
